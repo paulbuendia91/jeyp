@@ -1,0 +1,83 @@
+body{
+    background-image:url("shoes1.jpg");
+	min-height:100vh;
+	display:flex;
+	align-items:absolute;
+	justify-content:center;
+
+}
+img{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 56%;
+}
+.nav li{
+	display: inline-block;
+}
+
+.nav li a{
+	color: #fff;
+	text-decoration: none;
+	padding: 5px;
+	font-family: poppins;
+	font-size: 20px;
+	float: right;
+	list-style:none;
+	margin-top:30px;
+}
+
+.nav li a:hover{
+	background: #fff;
+	color: #333;
+}
+.content{
+    position: absolute;
+    top: 27vh;
+    left: 10%;
+    width: 33%;
+}
+.content h1{
+    font-size: 60px;
+}
+hr{
+    margin-top: 30px;
+    width: none;
+    height: none;
+    background:none;
+}
+.content p{
+    margin-top: 30px;
+    font-size: 28px;
+	font-style:times new roman;
+}
+button{
+    margin-top: 20px;
+    background: #dfa167;
+    border: none;
+    outline: none;
+    letter-spacing: .04em;
+    font-size: 20px;
+    padding: 15px 20px;
+}
+
+#home{
+	right:20%;
+	top:-15px;
+	position:absolute;
+	margin: 30px;
+}
+
+#about{
+	right:10%;
+	top:-15px;
+	position:absolute;
+	margin: 30px;
+}
+
+#login{
+	right:5px;
+	top:-15px;
+	position:absolute;
+	margin: 30px;
+}

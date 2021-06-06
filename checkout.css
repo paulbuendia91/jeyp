@@ -1,0 +1,81 @@
+.bg{
+background-image: url("dark.jpg");
+background-position:center;
+}
+
+
+
+.name{
+	font-family:monospace;
+	font-size: 20;
+}
+
+.n0{
+	font-family: monospace;
+	font-size: 19;
+}
+
+.n1{
+	font-family: monospace;
+	font-size: 20;
+}
+
+.n2{
+	font-family: monospace;
+	font-size: 20;
+}
+
+.row{
+	  margin-left:-5px;
+	margin-right:-5px;
+}
+
+
+th, td {
+  padding: 16px;
+  text-align: center;
+
+   background-color: white;
+}
+	tr:nth-child(even) {
+  background-color: white;
+}
+
+#logo{
+	width:300px;
+	height:60px;
+	left:10px;
+	top:10px;
+	position: absolute;
+}
+
+.tables{
+	height:108%;
+	left:40%;
+	position: absolute;
+	text-align: center;
+	font-size: 20px;
+	font-family: sans-serif;
+	background-color: white;
+	opacity: 1;
+
+}
+
+.btn
+{
+	width: 180px;
+    height:  30px;	
+	border-radius: : 10px;
+	font-size: 20px;
+	background-color: green;
+	margin-top: 5px;
+}
+
+.logo{
+	width:250px;
+	height:80px;
+	left:10px;
+	top:10px;
+	position: absolute;
+	border-radius: 50%;
+}

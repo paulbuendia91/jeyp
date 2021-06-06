@@ -1,0 +1,109 @@
+body{
+background-image: url("dark.jpg");
+background-position:center;
+}
+
+#logo{
+	width:250px;
+	height:80px;
+	left:10px;
+	top:10px;
+	position: absolute;
+	border-radius: 50%;
+}
+
+#shoe{
+	width:450px;
+	height:250px;
+	left:1%;
+	top:58%;
+	position: absolute;
+}
+
+#shoe2{
+	width:450px;
+	height:250px;
+	left:35%;
+	top:58%;
+	position: absolute;
+}
+
+#shoe3{
+	width:400px;
+	height:250px;
+	left:69%;
+	top:58%;
+	position: absolute;
+}
+
+.nav li{
+	display: inline-block;
+}
+
+.nav li a{
+	color: #fff;
+	text-decoration: none;
+	padding: 5px;
+	font-family: poppins;
+	font-size: 20px;
+	float: right;
+	list-style:none;
+	margin-top:30px;
+}
+
+.nav li a:hover{
+	background: #fff;
+	color: #333;
+}
+
+#contact{
+	left:870px;
+	bottom:-15px;
+	position:absolute;
+	margin: 30px;
+}
+
+#about{
+	left:1000px;
+	bottom:-15px;
+	position:absolute;
+	margin: 30px;
+}
+
+#login{
+	left:1100px;
+	bottom:-15px;
+	position:absolute;
+	margin: 30px;
+}
+
+#register{
+	left:1200px;
+	bottom:-15px;
+	position:absolute;
+	margin: 30px;
+}
+
+.text{
+	position:absolute;
+	color: white;
+	bottom:40%;
+	left:2%;
+	font-size: 1.5em;
+}
+
+.text1{
+	position:absolute;
+	color: white;
+	bottom:40%;
+	left:35%;
+	font-size: 1.5em;
+}
+
+.text2{
+	position:absolute;
+	color: white;
+	bottom:40%;
+	right:10%;
+	font-size: 1.5em;
+}

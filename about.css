@@ -1,0 +1,159 @@
+.bg{
+background-image: url("dark.jpg");
+background-position:center;
+}
+
+#logo{
+	width:250px;
+	height:80px;
+	left:10px;
+	top:10px;
+	position: absolute;
+	border-radius: 50%;
+}
+.nav li{
+	display: inline-block;
+}
+
+.nav li a{
+	color: #fff;
+	text-decoration: none;
+	padding: 5px;
+	font-family: poppins;
+	font-size: 20px;
+	float: right;
+	list-style:none;
+	margin-top:30px;
+}
+
+.nav li a:hover{
+	background: #fff;
+	color: #333;
+}
+
+#home{
+	left:900px;
+	bottom:-15px;
+	position:absolute;
+	margin: 30px;
+}
+
+#about{
+	left:1000px;
+	bottom:-15px;
+	position:absolute;
+	margin: 30px;
+}
+
+#login{
+	left:1100px;
+	bottom:-15px;
+	position:absolute;
+	margin: 30px;
+}
+
+#register{
+	left:1200px;
+	bottom:-15px;
+	position:absolute;
+	margin: 30px;
+}
+
+
+
+
+body{
+background:linear-gradient(orange, black);
+}
+
+#logo{
+	width:300px;
+	height:60px;
+	left:10px;
+	top:10px;
+	position: absolute;
+}
+
+
+
+#shoe{
+	width:700px;
+	height:500px;
+	left:40%;
+	top:20%;
+	position: absolute;
+}
+
+
+.nav li{
+	display: inline-block;
+}
+
+.nav li a{
+	color: #fff;
+	text-decoration: none;
+	padding: 5px;
+	font-family: poppins;
+	font-size: 20px;
+	float: right;
+	list-style:none;
+	margin-top:30px;
+}
+
+.nav li a:hover{
+	background: #fff;
+	color: #333;
+}
+
+#home{
+	left:900px;
+	bottom:-15px;
+	position:absolute;
+	margin: 30px;
+}
+
+#about{
+	left:1000px;
+	bottom:-15px;
+	position:absolute;
+	margin: 30px;
+}
+
+#login{
+	left:1100px;
+	bottom:-15px;
+	position:absolute;
+	margin: 30px;
+}
+
+#register{
+	left:1200px;
+	bottom:-15px;
+	position:absolute;
+	margin: 30px;
+}
+
+
+
+.text1{
+	position:absolute;
+	color: white;
+	bottom:20%;
+	left:2%;
+	font-size: 1.5em;
+}
+
+.text2{
+	position:absolute;
+	color: white;
+	bottom:-12%;
+	font-size: 1em;
+}
+
+.text3{
+	position:absolute;
+	color: white;
+	bottom:-10%;
+	left:90%;
+	font-size: 1em;
+}

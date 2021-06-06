@@ -1,0 +1,54 @@
+.start {
+  width: 400px;
+  height:  500px; 
+  text-align: center;
+  font-size: 20px;
+  font-family: sans-serif;
+  background-color:lightblue;
+  opacity: 1;
+  margin-left: 40%;
+  margin-top: 6%;
+}
+
+h1{
+	color:black;
+	font-family:impact;
+	text-align: center;
+}
+
+.txtbox{
+	
+	margin-top: 5px;
+	background: white;
+	text-align: center;
+	font-size: 20px;
+    font-family: sans-serif;
+	width: 330px;
+    height:  30px; 
+	padding: 15px;
+	border: none;
+    padding-right: 10px;
+	border-radius: 15px;
+}
+.btn
+{
+	width: 330px;
+    height:  30px;	
+	border-radius: : 10px;
+	font-size: 20px;
+	background-color: green;
+	margin-top: 20px;
+}
+.bgreg{
+ background-image: url('dark.jpg');
+ background-position:center;
+}
+
+.logo{
+	width:250px;
+	height:80px;
+	left:10px;
+	top:10px;
+	position: absolute;
+	border-radius:50%;
+}
